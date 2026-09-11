@@ -1,0 +1,10 @@
+# Phishing i socjotechnika
+
+notes:
+Jednym z łatwiejszych sposobów na włamanie się do infrastruktury firmy czy do naszych danych jest przekonanie nas samych abyśmy to zrobili.
+Przykładowo osoba nieupoważniona może dostać się do środka budynku dzięki dobroci ich pracowników - grupa pracowników może być na przerwie na papierosa na zewnątrz budynku, adwersarz może podejść do grupy i spróbować wdać się w small talk udając pracownika, gdy grupa wraca do bióra jeden z pracowników używa swojej karty i wpuszcza resztę wraz z adwersarzem.
+W świecie cyfrowym może to być jeszcze łatwiejsze, możemy dostać e-maila który został przygotowany tak aby wyglądał na coś co zmusi nas do przekazania jakichkolwiek informacji których nie powinniśmy podawać, to może być nawet coś tak prostego jak numer prywatny do innego pracownika który ma inne uprawnienia w firmie od naszych, my nie musimy być celem sami w sobie ale możemy być furtką do dalszych ataków.
+Dla tego dobrą praktyką jest nie odpowiadanie na maile które są podejrzane, a w szczególności nie pobieranie żadnych załączników gdyż nawet w zwykłym zdjęciu może znaleźć się wirus, jeśli zdaży się że nie jesteśmy w stanie z stwierdzić czy mail jest prawdziwy to powinniśmy powiadomić o nim dział IT albo inny wyznaczony przez firmę do tego dział.
+Kolejnym rodzajem ataków może być telefon, dzięki rozwojowi AI coraz łatwiej jest skopiować głos innej osoby, atakujący może podszywać się pod inną osobę , aby chronić się przed takim atakiem należy ograniczyć przekazywanie informacji podczas tej rozmowy i zweryfikować najpierw rozmówcę, przykłądowo można zapytać o coś co wiecie tylko między sobą albo upewnić się poprzez kontak w inny sposób, przykładowo wiadomość na komunikatorze.
+Jeśli rozmowa wydaje się podejrzana albo niepotrzebnie się przedłuża to należy rozważyć rozłączenie się, atakujący może użyć fragmentów waszej rozmowy do dalszych ataków.
+Po każdym takim incydencie należy od razu zgłosić go do odpowiedniego działu w firmie, to pomoże w ochronie innych pracowników.
