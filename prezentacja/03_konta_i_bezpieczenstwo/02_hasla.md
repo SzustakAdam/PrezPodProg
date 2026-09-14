@@ -36,3 +36,4 @@ Rozwiązania chmurowe często oferują wtyczkę do przeglądarki aby pozwolić n
 notes:
 Opensourceowe rozwiązania do przechowywania haseł są dobrą alternatywą do płatnych,
 Często duże firmy i kraje finansują rozwój tych rozwiązań i oferują płatne nagrody dla tych którym uda się znaleźć wrażliwy kod który można było by wykorzystać w celu kradzieży haseł.
+Takim rozwiązaniem jest KeePass, który pozwala na bezpieczne przechowywanie haseł oraz generowanie nowych silnych haseł które co prawda nie są łatwe do zapamiętania ale w połączeniu z menadżerem haseł nie stanowi to problemu.
