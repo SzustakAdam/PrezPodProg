@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Losowanie Pytań</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
+    <script type="module" src="./index.js"></script>
+</head>
+<body class="w3-grid" style="grid-template-columns: 1fr; grid-template-rows: auto 1fr; height: 100vh;">
+    <div class="w3-grid" style="grid-template-columns:repeat(4, 1fr)">
+        <label for="category" class="w3-padding" style="text-align: left;">Kategoria:</label>
+        <select id="category" class="w3-select w3-border" ></select>
+        <div class="w3-center w3-padding" id="question-counter">n/a</div>
+        <button id="next-question" class="w3-btn">Następne pytanie</button>
+    </div>
+    <div class="w3-card w3-display-container w3-padding w3-center w3-light-grey" style="font-size: 25pt">
+        <span id="question-box" class="w3-display-middle" ></span>
+    </div>
+</body>
+</html>
